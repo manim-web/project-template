@@ -1,0 +1,11 @@
+name: project_template
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+  manim_web: ^1.2.1
+
+dev_dependencies:
+  build_runner: ^1.10.0
+  build_web_compilers: ^2.11.0
